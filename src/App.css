@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.font-cus-b{
+     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+    color: #1d1d1f;
+}
+.font-cus-w{
+     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+    color: #f5f5f7;
+}
+
+.bg-cus{
+ background-color: #333333;
+}
+
+.scroll-sm{
+  scroll-behavior: smooth;
+
+}
+
