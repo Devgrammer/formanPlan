@@ -1,4 +1,5 @@
 import React from 'react'
+import Pdf from '../../data/resume.pdf'
 
 function Section(props) {
     return (
@@ -9,7 +10,7 @@ function Section(props) {
                 <p className="head-desc text-xl font-light text-gray-400 m-2 xs:text-lg xs:font-">{ props.slang }</p>
             </div>
             <div className="sec-link flex justify-center">
-                <a href="www.google.com" className="slink1 text-blue-500 text-xl m-2 xs:text-lg">Resume > </a>
+                <a href={Pdf}  target="_blank" className="slink1 text-blue-500 text-xl m-2 xs:text-lg">Resume > </a>
                 <a href="https://www.linkedin.com/in/iamcrazyabhi" className="slink1 text-blue-500 text-xl   m-2 xs:text-lg">Linkedin ></a>
             </div>
             <div className="sec-img w-full flex justify-center">
