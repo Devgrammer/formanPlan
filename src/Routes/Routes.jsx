@@ -1,4 +1,4 @@
-
+import React from "react";
 import {  Route,  Switch } from "react-router-dom";
 import Home from './../pages/Home/Home';
 import { Academic } from './../pages/Academic';
