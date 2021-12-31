@@ -19,7 +19,7 @@ export const Academic = () => {
             </div>
             <div className="prod-nav flex w-full h-full space-x-20 text-center  ml-8">
                 <div className="prod-mini-cont flex-col items-center ">
-                    <div className="prod-img"><img className="w-24 h-24" src="./images/school.png" alt="img" /></div>
+                    <div className="prod-img"><img className="w-24 h-24" src="./icons/school.svg" alt="img" /></div>
                     <div className="prod-name-div "><p className="prod-name font-medium text-xl text-gray-dark ">School</p></div>
                 </div>
                  <div className="prod-mini-cont flex-col">
