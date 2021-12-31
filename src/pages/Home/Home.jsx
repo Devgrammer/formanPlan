@@ -8,28 +8,28 @@ const homeData = [
         sheading: "Developer & Designer",
         slang: "Bridging Design to Code",
         bg: "bg-#fdfdfd font-cus-b  w-full",
-        src: "./images/sec-img-1.jpg"
+        src: "./images/main.png"
     },
     {
         heading: "Meet Myself",
         sheading: "Explore & Discover",
         slang: "Bridging Design to Code",
         bg: "bg-black font-cus-w w-full",
-        src: "./images/sec-img-2.jpg"
+        src: "./images/meet.png"
     },
     {
         heading: "Skills",
         sheading: "Learn & Earn",
         slang: "Zero to Hero",
         bg: "bg-#fdfdfd font-cus-b w-full",
-        src: "./images/skills.jpg"
+        src: "./images/skill.png"
     },
     {
         heading: "Projects",
         sheading: "Build & Deploy",
         slang: "Pixel to Program",
         bg: "bg-black font-cus-w w-full",
-        src: "./images/wrk.jpg"
+        src: "./images/dep.png"
     },
 
 ]
